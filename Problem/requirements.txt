@@ -1,0 +1,2 @@
+numpy
+numba  # optional: without it the constructive heuristic runs in pure Python (much slower on 20x24 and 20x48)
